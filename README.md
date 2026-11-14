@@ -2,7 +2,7 @@
 
 **`Em fase de aprendizado`**
 
-👋 Olá, eu sou o Murillo! Tenho 23 anos, gaúcho e estudante de Desenvolvimento de Software na BYU-Pathway Worldwide. Desde pequeno, sempre fui fascinado por como a tecnologia pode impactar nossas vidas. Hoje, dedico meu tempo a aprender novas linguagens e ferramentas, construindo uma base sólida para me tornar um desenvolvedor completo. Bem-vindo ao meu portfólio!
+👋 Olá, eu sou o Murillo! Tenho 24 anos, gaúcho e estudante de Desenvolvimento de Software na BYU-Pathway Worldwide. Desde pequeno, sempre fui fascinado por como a tecnologia pode impactar nossas vidas. Hoje, dedico meu tempo a aprender novas linguagens e ferramentas, construindo uma base sólida para me tornar um desenvolvedor completo. Bem-vindo ao meu portfólio!
 
 ---
 
